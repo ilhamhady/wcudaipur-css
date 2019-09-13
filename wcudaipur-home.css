@@ -1,5 +1,5 @@
 /* CSS for homepage WordCamp Udaipur 2019 */
-#primary .full-width {
+#primary > #post-247 {
     max-width: 1920px !important;
 }
 .ct-section {
