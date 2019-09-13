@@ -1,6 +1,12 @@
 /* CSS for homepage WordCamp Udaipur 2019 */
+#content {
+    padding: 0;
+}
+#primary {
+    max-width: 1920px;
+}
 .ct-section {
-    width: 1920px;
+    width: 100%;
     background-size: cover;
     background-repeat: repeat;
 }
