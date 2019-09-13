@@ -1,9 +1,5 @@
 /* CSS for homepage WordCamp Udaipur 2019 */
-.page-id-247 > #content {
-    padding: 0 !important;
-    text-align: unset;
-}
-.page-id-247 > #primary {
+#primary .fullwidth {
     max-width: 1920px !important;
 }
 .ct-section {
@@ -439,4 +435,9 @@
 #_search_form-199-5 input[type=submit] {
     background-color: #ffffff;
     color: #000000;
+}
+@media (min-width: 68em) {
+    #content {
+        padding: 0 !important;
+    }
 }
