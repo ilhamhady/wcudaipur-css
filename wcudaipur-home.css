@@ -448,3 +448,13 @@ div#primary.content-area.full-width {
         padding: 0 !important;
     }
 }
+@media (max-width: 48em) {
+    #headline-6-5 {
+        font-size: 4em;
+    }
+}
+@media (max-width: 30em) {
+    Hheadline-6-5 {
+        font-size: 3em;
+    }
+}
