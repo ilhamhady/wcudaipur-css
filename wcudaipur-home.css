@@ -1,0 +1,435 @@
+/* CSS for homepage WordCamp Udaipur 2019 */
+.ct-section {
+    width: 100%;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.ct-section-inner-wrap {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    padding-top: 75px;
+    padding-right: 20px;
+    padding-bottom: 75px;
+    padding-left: 20px;
+}
+.ct-new-columns {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.ct-div-block {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.ct-new-columns > .ct-div-block {
+    padding: 20px;
+}
+.ct-image {
+    max-width: 100%;
+}
+.ct-link-button {
+    border-radius: 3px;
+    background-color: #1e73be;
+    border: 1px solid #1e73be;
+    color: #ffffff;
+    padding: 10px 16px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+#section-1-5 {
+    background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+}
+#section-1-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+#new_columns-2-5 {
+    background-image: url(/wp-content/uploads/2019/09/home-wcudaipur-background-1a.jpg);
+    background-size: cover;
+    width: 100%;
+    flex-direction: unset;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-repeat: no-repeat;
+}
+#div_block-3-5 {
+    background-image: linear-gradient(45deg,rgba(233,42,87,0.9),rgba(238,77,34,0.9) 100%);
+    display: flex;
+    width: 40%;
+    justify-content: center;
+}
+#div_block-5-5 {
+    margin-right: 0px;
+    padding-right: 0px;
+    flex-direction: column;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    margin-left: 15%;
+    padding-left: 0px;
+}
+#headline-6-5 {
+    color: #ffffff;
+    line-height: 1;
+    font-family: 'Playfair Display';
+    font-size: 85px;
+    text-align: left;
+    width: auto;
+    margin-left: 0%;
+}
+#text_block-7-5 {
+    color: #ffffff;
+    font-family: 'Montserrat';
+    margin-top: 30px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    width: auto;
+    text-align: left;
+    margin-left: 0%;
+}
+#div_block-4-5 {
+    width: 60.00%;
+}
+#section-9-5 {
+    background-size: cover;
+    background-color: #f4f8fb;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+#section-9-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#div_block-12-5 {
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#headline-13-5 {
+    font-family: 'Playfair Display';
+    margin-bottom: 30px;
+    line-height: 1.2;
+    font-size: 36px;
+    font-weight: 700;
+}
+#text_block-16-5 {
+    font-family: 'Montserrat';
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#new_columns-22-5 {
+    flex-direction: unset;
+    width: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#div_block-23-5, #div_block-24-5 {
+    width: 33.33%;
+    max-width: 250px;
+}
+#div_block-25-5 {
+    width: 33.34%;
+    max-width: 250px;
+}
+#div_block-26-5, #div_block-32-5, #div_block-37-5 {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 120px;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+    max-width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.08);
+}
+#section-43-5 {
+    text-align: center;
+}
+#section-43-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#div_block-48-5 {
+    width: 100.00%;
+    align-items: center;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#headline-49-5 {
+    font-family: 'Playfair Display';
+    margin-bottom: 40px;
+    line-height: 1.2;
+}
+#new_columns-53-5 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 100%;
+    flex-direction: unset;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5 {
+    width: 25%;
+    max-width: 50%;
+}
+#div_block-58-5, #div_block-68-5, #div_block-75-5, #div_block-81-5 {
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+#div_block-61-5, #div_block-70-5, #div_block-77-5, #div_block-83-5 {
+    width: auto;
+    margin-left: 22px;
+}
+#text_block-62-5, #text_block-71-5, #text_block-78-5, #div_block-84-5 {
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 600;
+    color: #e92a57;
+    line-height: 1;
+}
+#text_block-64-5, #text_block-72-5, #text_block-79-5, #div_block-85-5 {
+    font-size: 18px;
+}
+#section-94-5 {
+    background-image: linear-gradient(45deg,#e92a57 30%,#ee4d22 100%);
+    max-width: 1920px;
+    margin: 0 auto;
+}
+#section-94-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+}
+#new_columns-95-5 {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#div_block-96-5 {
+    width: 60%;
+    align-items: flex-start;
+    text-align: left;
+}
+#headline-98-5 {
+    font-family: 'Playfair Display';
+    color: #ffffff;
+    margin-bottom: 30px;
+    line-height: 1.2;
+}
+#text_block-100-5 {
+    color: #ffffff;
+    font-family: 'Montserrat';
+}
+#div_block-97-5 {
+    width: 40%;
+    align-items: flex-end;
+    text-align: right;
+    justify-content: center;
+}
+#link_button-102-5 {
+    font-family: 'Montserrat';
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #000000;
+}
+#section-104-5 {
+    max-width: 1920px;
+    background-color: #f4f8fb;
+    margin: 0 auto;
+}
+#section-104-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+}
+#new_columns-105-5 {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#div_block-106-5 {
+    width: 100.00%;
+}
+#headline-107-5 {
+    font-family: 'Playfair Display';
+    margin-bottom: 40px;
+}
+#image-109-5 {
+    width: 100%;
+}
+#section-110-5 {
+    max-width: 1920px;
+}
+#section-110-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+}
+#div_block-125-5 {
+    width: 100.00%;
+    align-items: center;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#headline-126-5 {
+    font-family: 'Playfair Display';
+}
+#new_columns-112-5 {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#div_block-113-5, #div_block-114-5 {
+    width: 33.33%;
+}
+#div_block-115-5 {
+    width: 33.34%;
+}
+#div_block-128-5 {
+    background-image: linear-gradient(45deg,rgba(233,42,87,0.8),rgba(238,77,34,0.8) 100%),url(/wp-content/uploads/2019/09/image-about-udaipur-1.jpg);
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    min-height: 370px;
+    justify-content: center;
+}
+#div_block-134-5 {
+    background-image: linear-gradient(45deg,rgba(233,42,87,0.8),rgba(238,77,34,0.8) 100%),url(/wp-content/uploads/2019/09/image-about-udaipur-2.jpg);
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    min-height: 370px;
+    justify-content: center;
+}
+#div_block-141-5 {
+    background-image: linear-gradient(45deg,rgba(233,42,87,0.8),rgba(238,77,34,0.8) 100%),url(/wp-content/uploads/2019/09/image-about-udaipur-3.jpg);
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    min-height: 370px;
+    justify-content: center;
+}
+#headline-129-5, #headline-135-5, #headline-142-5 {
+    color: #ffffff;
+    font-family: 'Playfair Display';
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+#link_button-131-5, #link_button-136-5, #link_button-143-5 {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+#section-147-5 {
+    max-width: 1920px;
+}
+#section-147-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+}
+#div_block-149-5 {
+    width: 100.00%;
+    align-items: center;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#headline-150-5 {
+    font-family: 'Playfair Display';
+}
+#div_block-169-5, #div_block-170-5, #div_block-178-5, #div_block-179-5 {
+    width: 33.33%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#div_block-171-5, #div_block-181-5 {
+    width: 33.34%;
+}
+#text_block-172-5, #text_block-180-5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+#div_block-175-5, #div_block-184-5 {
+    width: 100.00%;
+    align-items: center;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#section-188-5 {
+    background-image: linear-gradient(45deg,rgba(233,42,87,0.9),rgba(238,77,34,0.9) 100%),url(/wp-content/uploads/2019/09/image-footer-wcudaipur-1.jpg);
+    max-width: 1920px;
+    margin: 0 auto;
+}
+#section-188-5 > .ct-section-inner-wrap {
+    max-width: 1920px;
+}
+#new_columns-189-5 {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#div_block-190-5 {
+    width: 30%;
+}
+#div_block-192-5 {
+    width: 100%;
+}
+#div_block-191-5 {
+    width: 70.00%;
+}
+#div_block-193-5 {
+    width: 100%;
+    align-items: flex-start;
+    text-align: left;
+}
+#headline-195-5 {
+    color: #ffffff;
+    font-family: 'Playfair Display';
+    line-height: 1.2;
+    margin-bottom: 10px;
+    text-align: left;
+}
+#text_block-197-5 {
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+#_search_form-199-5 input[type=submit] {
+    background-color: #ffffff;
+    color: #000000;
+}
