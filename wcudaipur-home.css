@@ -178,6 +178,10 @@ div#primary.content-area.full-width {
     margin-right: auto;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.08);
 }
+#image-29-5, #image-33-5, #image-38-5 {
+    margin-bottom: -0.5em;
+    margin-top: 1.5em;
+}
 #section-43-5 {
     text-align: center;
 }
