@@ -1,6 +1,7 @@
 /* CSS for homepage WordCamp Udaipur 2019 */
 body.page-id-247 {
     background: #ffffff;
+    padding: 0;
 }
 div#primary.content-area.full-width {
     max-width: 1920px !important;
@@ -99,6 +100,7 @@ div#primary.content-area.full-width {
     text-align: left;
     width: auto;
     margin-left: 0%;
+    text-shadow: 5px 3px 6px rgba(10,10,10,0.3);
 }
 #text_block-7-5 {
     color: #ffffff;
