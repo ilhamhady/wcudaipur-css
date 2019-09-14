@@ -464,6 +464,12 @@ div#primary.content-area.full-width {
     background-color: #ffffff;
     color: #000000;
 }
+@media (min-width: 94em) {
+    #new_columns-53-5 {
+        padding-left: 18%;
+        padding-right: 18%;
+    }
+}
 @media (max-width: 48em) {
     body.page-id-247 > .site > .site-content {
         margin: -7em 0 -1.5em;
