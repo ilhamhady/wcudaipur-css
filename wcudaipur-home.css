@@ -8,7 +8,7 @@ body.page-id-247 > .site > .site-content {
 body.page-id-247 > .custom-header, body.page-id-247 > .entry-header, body.page-id-247 > .entry-footer, body.page-id-247 > .site-footer {
     display: none !important;
 }
-body.page-id-247 > div#primary.content-area.full-width {
+div#primary.content-area.full-width {
     max-width: 1920px !important;
 }
 .ct-section {
