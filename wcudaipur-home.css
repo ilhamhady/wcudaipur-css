@@ -3,9 +3,9 @@ body.page-id-247 {
     background: #ffffff;
 }
 body.page-id-247 > .site > .site-content {
-    padding: 0 !important;
+    padding: 0;
+    margin: -14em 0 -1.4em;
 }
-body.page-id-247 > header.site-header > .custom-header,
 article.post-247 > header.entry-header, article.post-247 > footer.entry-footer {
     display: none !important;
 }
