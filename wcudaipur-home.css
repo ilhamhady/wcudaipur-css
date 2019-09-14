@@ -459,6 +459,9 @@ div#primary.content-area.full-width {
     color: #000000;
 }
 @media (max-width: 48em) {
+    body.page-id-247 > .site > .site-content {
+        margin: -7em 0 -0.7em;
+    }
     #headline-6-5 {
         font-size: 4em;
     }
