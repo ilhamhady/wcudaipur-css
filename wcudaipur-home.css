@@ -3,7 +3,7 @@ body.page-id-247 {
     background: #ffffff;
 }
 body.page-id-247 > .site > .site-content {
-    padding: 0;
+    padding: 0 !important;
     margin: -14em 0 -1.4em;
 }
 article.post-247 > header.entry-header, article.post-247 > footer.entry-footer {
