@@ -478,6 +478,11 @@ div#primary.content-area.full-width {
         width: 100%;
     }
     #new_columns-22-5, #div_block-48-5, #new_columns-53-5, #new_columns-95-5, #new_columns-105-5, #div_block-125-5, #new_columns-112-5, #div_block-149-5, #div_block-175-5, #div_block-184-5, #new_columns-189-5 {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    #div_block-96-5, #div_block-97-5 {
+        align-items: flex-start;
         padding-left: 0;
         padding-right: 0;
     }
