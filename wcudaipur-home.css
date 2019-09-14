@@ -470,7 +470,7 @@ div#primary.content-area.full-width {
         padding-right: 18%;
     }
 }
-@media (max-width: 48em) {
+@media (max-width: 51em) {
     body.page-id-247 > .site > .site-content {
         margin: -7em 0 -1.5em;
     }
