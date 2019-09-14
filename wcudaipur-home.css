@@ -481,10 +481,12 @@ div#primary.content-area.full-width {
         padding-left: 5%;
         padding-right: 5%;
     }
-    #div_block-96-5, #div_block-97-5 {
-        align-items: flex-start;
+    #div_block-96-5, #div_block-97-5, #div_block-106-5 {
         padding-left: 0;
         padding-right: 0;
+    }
+    #div_block-97-5 {
+        align-items: flex-start;
     }
     #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5 {
         padding: 10px;
