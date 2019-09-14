@@ -450,11 +450,6 @@ div#primary.content-area.full-width {
     background-color: #ffffff;
     color: #000000;
 }
-@media (min-width: 68em) {
-    #content {
-        padding: 0 !important;
-    }
-}
 @media (max-width: 48em) {
     #headline-6-5 {
         font-size: 4em;
