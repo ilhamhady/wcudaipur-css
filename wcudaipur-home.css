@@ -489,12 +489,8 @@ div#primary.content-area.full-width {
         align-items: flex-start;
     }
     #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5 {
-        /*padding: 10px;*/
-        max-width: fit-content;
+        padding: 10px;
     }
-    /*#text_block-64-5, #text_block-72-5, #text_block-79-5, #text_block-85-5 {
-        font-size: 14px;
-    }*/
 }
 @media (max-width: 30em) {
     body.page-id-247 > .site > .site-content {
@@ -502,5 +498,8 @@ div#primary.content-area.full-width {
     }
     #headline-6-5 {
         font-size: 3em;
+    }
+    #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5 {
+        max-width: fit-content;
     }
 }
