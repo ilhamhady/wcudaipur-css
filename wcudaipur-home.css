@@ -5,8 +5,13 @@ body.page-id-247 {
 body.page-id-247 > .site > .site-content {
     padding: 0 !important;
 }
-.page-id-247.top_bar, article.post-247 > header.entry-header, article.post-247 > footer.entry-footer, .page-id-247.footer_bar {
+body.page-id-247 > header.site-header > custom-headr,
+article.post-247 > header.entry-header, article.post-247 > footer.entry-footer {
     display: none !important;
+}
+article.post-247 {
+    margin: 0;
+    padding: 0;
 }
 div#primary.content-area.full-width {
     max-width: 1920px !important;
