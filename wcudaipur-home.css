@@ -4,7 +4,7 @@ body.page-id-247 {
 }
 body.page-id-247 > .site > .site-content {
     padding: 0 !important;
-    margin: -14em 0 -1.4em;
+    margin: -14em 0 -1.5em;
 }
 article.post-247 > header.entry-header, article.post-247 > footer.entry-footer {
     display: none !important;
@@ -466,13 +466,16 @@ div#primary.content-area.full-width {
 }
 @media (max-width: 48em) {
     body.page-id-247 > .site > .site-content {
-        margin: -7em 0 -1.4em;
+        margin: -7em 0 -1.5em;
     }
     #headline-6-5 {
         font-size: 4em;
     }
     #div_block-5-5 {
         margin-left: 5%;
+    }
+    #div_block-12-5, #div_block-23-5, #div_block-24-5, #div_block-25-5, #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5, #div_block-96-5, #div_block-97-5, #div_block-113-5, #div_block-114-5, #div_block-115-5, #div_block-169-5, #div_block-170-5, #div_block-178-5, #div_block-179-5, #div_block-171-5, #div_block-181-5, #div_block-190-5, #div_block-191-5 {
+        width: 100%;
     }
     #new_columns-22-5, #div_block-48-5, #new_columns-53-5, #new_columns-95-5, #new_columns-105-5, #div_block-125-5, #new_columns-112-5, #div_block-149-5, #div_block-175-5, #div_block-184-5, #new_columns-189-5 {
         padding-left: 0;
@@ -484,15 +487,12 @@ div#primary.content-area.full-width {
     #text_block-64-5, #text_block-72-5, #text_block-79-5, #text_block-85-5 {
         font-size: 14px;
     }
-    #div_block-12-5, #div_block-23-5, #div_block-24-5, #div_block-25-5, #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5, #div_block-96-5, #div_block-97-5, #div_block-113-5, #div_block-114-5, #div_block-115-5, #div_block-169-5, #div_block-170-5, #div_block-178-5, #div_block-179-5, #div_block-171-5, #div_block-181-5, #div_block-190-5, #div_block-191-5 {
-        width: 100%;
-    }
 }
 @media (max-width: 30em) {
+    body.page-id-247 > .site > .site-content {
+        margin: -10em 0 -1.5em;
+    }
     #headline-6-5 {
         font-size: 3em;
-    }
-    body.page-id-247 > .site > .site-content {
-        margin: -10em 0 -1.4em;
     }
 }
