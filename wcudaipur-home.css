@@ -457,9 +457,19 @@ div#primary.content-area.full-width {
     #headline-6-5 {
         font-size: 4em;
     }
+    #div_block-5-5 {
+        margin-left: 5%;
+    }
+    #new_columns-22-5, #div_block-48-5, #new_columns-53-5, #new_columns-95-5, #new_columns-105-5, #div_block-125-5, #new_columns-112-5, #div_block-149-5, #div_block-175-5, #div_block-184-5, #new_columns-189-5 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #div_block-23-5, #div-block-24-5, #div_block-25-5, #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5, #div_block-113-5, #div_block-114-5, #div_block-115-5, #div_block-169-5, #div_block-170-5, #div_block-178-5, #div_block-179-5, #div_block-171-5, #div_block-181-5 {
+        width: 100%;
+    }
 }
 @media (max-width: 30em) {
-    Hheadline-6-5 {
+    #headline-6-5 {
         font-size: 3em;
     }
 }
