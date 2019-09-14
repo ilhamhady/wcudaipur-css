@@ -348,6 +348,8 @@ div#primary.content-area.full-width {
     text-align: center;
     min-height: 370px;
     justify-content: center;
+    max-width: 300px;
+    margin: auto;
 }
 #div_block-134-5 {
     background-image: linear-gradient(45deg,rgba(233,42,87,0.8),rgba(238,77,34,0.8) 100%),url(/files/2019/09/image-about-udaipur-2.jpg);
@@ -356,6 +358,8 @@ div#primary.content-area.full-width {
     text-align: center;
     min-height: 370px;
     justify-content: center;
+    max-width: 300px;
+    margin: auto;
 }
 #div_block-141-5 {
     background-image: linear-gradient(45deg,rgba(233,42,87,0.8),rgba(238,77,34,0.8) 100%),url(/files/2019/09/image-about-udaipur-3.jpg);
@@ -364,6 +368,8 @@ div#primary.content-area.full-width {
     text-align: center;
     min-height: 370px;
     justify-content: center;
+    max-width: 300px;
+    margin: auto;
 }
 #headline-129-5, #headline-135-5, #headline-142-5 {
     color: #ffffff;
@@ -460,7 +466,7 @@ div#primary.content-area.full-width {
 }
 @media (max-width: 48em) {
     body.page-id-247 > .site > .site-content {
-        margin: -7em 0 -0.7em;
+        margin: -7em 0 -1.4em;
     }
     #headline-6-5 {
         font-size: 4em;
@@ -485,5 +491,8 @@ div#primary.content-area.full-width {
 @media (max-width: 30em) {
     #headline-6-5 {
         font-size: 3em;
+    }
+    body.page-id-247 > .site > .site-content {
+        margin: -10em 0 -1.4em;
     }
 }
