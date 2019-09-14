@@ -5,7 +5,7 @@ body.page-id-247 {
 body.page-id-247 > .site > .site-content {
     padding: 0 !important;
 }
-body.page-id-247 > .custom-header, body.page-id-247 > .entry-header, body.page-id-247 > .entry-footer, body.page-id-247 > .site-footer {
+body.page-id-247 > header.custom-header, article.post-247 > header.entry-header, article.post-247 > footer.entry-footer, body.page-id-247 > footer.site-footer {
     display: none !important;
 }
 div#primary.content-area.full-width {
