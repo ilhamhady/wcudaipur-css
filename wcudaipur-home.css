@@ -507,6 +507,9 @@ div#primary.content-area.full-width {
 @media (min-width: 768px) {
     #footer-widget-1 {
         width: 30% !important;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
     }
     #footer-widget-2 {
         width: 70% !important;
