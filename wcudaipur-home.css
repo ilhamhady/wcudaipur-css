@@ -467,7 +467,7 @@ div#primary.content-area.full-width {
     color: #000000;
 }
 #footer-widget-2 input[type=submit]:hover {
-    background-color: #999999;
+    background-color: #333333;
     color: #ffffff;
 }
 #footer-widgets {
@@ -490,7 +490,7 @@ div#primary.content-area.full-width {
 }
 @media (min-width: 62em) {
     #footer-widgets {
-        padding-bottom: 2.5rem;
+        padding-bottom: 2.5rem !important;
     }
 }
 @media (min-width: 768px) {
