@@ -474,6 +474,7 @@ div#primary.content-area.full-width {
     max-width: 1920px !important;
     margin-left: 15% !important;
     margin-right: 15% !important;
+    padding-bottom: 2.5rem;
 }
 #footer-widget-2 {
     color: #ffffff;
