@@ -466,7 +466,7 @@ div#primary.content-area.full-width {
     background-color: #ffffff;
     color: #000000;
 }
-#footer-widget-2 input[type=submit] :hover {
+#footer-widget-2 input[type=submit]:hover {
     background-color: #999999;
     color: #ffffff;
 }
@@ -474,7 +474,6 @@ div#primary.content-area.full-width {
     max-width: 1920px !important;
     margin-left: 15% !important;
     margin-right: 15% !important;
-    padding-bottom: 2.5rem;
 }
 #footer-widget-2 {
     color: #ffffff;
@@ -487,6 +486,11 @@ div#primary.content-area.full-width {
     #new_columns-53-5, #footer-widgets {
         padding-left: 18% !important;
         padding-right: 18% !important;
+    }
+}
+@media (min-width: 62em) {
+    #footer-widgets {
+        padding-bottom: 2.5rem;
     }
 }
 @media (min-width: 768px) {
