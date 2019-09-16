@@ -483,9 +483,13 @@ div#primary.content-area.full-width {
     font-family: 'Playfair Display';
 }
 @media (min-width: 94em) {
-    #new_columns-53-5, #footer-widgets {
-        padding-left: 18% !important;
-        padding-right: 18% !important;
+    #new_columns-53-5 {
+        padding-left: 18%;
+        padding-right: 18%;
+    }
+    #footer-widgets {
+        margin-left: 18% !important;
+        margin-right: 18% !important;
     }
 }
 @media (min-width: 62em) {
