@@ -464,12 +464,12 @@ div#primary.content-area.full-width {
     font-family: 'Montserrat';
 }
 #footer-widgets {
-    max-width: 1920px;
+    max-width: 1920px !important;
     margin-left: 15%;
     margin-right: 15%;
 }
 #footer-widget-2 {
-    font-color: #ffffff;
+    color: #ffffff;
     font-family: 'Montserrat';
 }
 #footer-widget-2 h2 {
@@ -479,6 +479,14 @@ div#primary.content-area.full-width {
     #new_columns-53-5, #footer-widgets {
         padding-left: 18%;
         padding-right: 18%;
+    }
+}
+@media (min-width: 768px) {
+    #footer-widget-1 {
+        width: 30% !important;
+    }
+    #footer-widget-2 {
+        width: 70% !important;
     }
 }
 @media (max-width: 51em) {
@@ -511,12 +519,6 @@ div#primary.content-area.full-width {
     #footer-widgets {
         margin-left: 5%;
         margin-right: 5%;
-    }
-    #footer-widget-1 {
-        width: 30%;
-    }
-    #footer-widget-2 {
-        width: 70%;
     }
 }
 @media (max-width: 30em) {
