@@ -533,8 +533,8 @@ div#primary.content-area.full-width {
         padding: 10px;
     }
     #footer-widgets {
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-left: 5% !important;
+        margin-right: 5% !important;
     }
 }
 @media (max-width: 30em) {
