@@ -488,6 +488,7 @@ div#primary.content-area.full-width {
 }
 #footer-widget-2 h2 {
     font-family: 'Playfair Display';
+    font-size: 1.953em;
 }
 @media (min-width: 94em) {
     #new_columns-53-5 {
