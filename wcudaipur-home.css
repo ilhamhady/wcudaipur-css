@@ -522,6 +522,11 @@ div#primary.content-area.full-width {
         width: 70% !important;
     }
 }
+@media (min-width: 817px) and (max-width 1023px) {
+    body.page-id-247 > .site > .site-content {
+        margin: -7em 0 -1em;
+    }
+}
 @media (max-width: 51em) {
     body.page-id-247 > .site > .site-content {
         margin: -7em 0 -1em;
