@@ -526,6 +526,9 @@ div#primary.content-area.full-width {
     body.page-id-247 > .site > .site-content {
         margin: -7em 0 -1em;
     }
+    #div_block-54-5, #div_block-55-5, #div_block-56-5, #div_block-57-5 {
+        width: 50%;
+    }
 }
 @media (max-width: 51em) {
     body.page-id-247 > .site > .site-content {
