@@ -491,7 +491,7 @@ div#primary.content-area.full-width {
     font-size: 1.953em;
 }
 .wcorg-mailchimp-email label {
-    margin-top: 20px;
+    margin-top: 20px !important;
 }
 @media (min-width: 94em) {
     #new_columns-53-5 {
@@ -526,7 +526,7 @@ div#primary.content-area.full-width {
     body.page-id-247 > .site > .site-content {
         margin: -7em 0 -1em;
     }
-    #div-block-3-5 {
+    #div_block-3-5 {
         background-image: none;
     }
     #headline-6-5 {
