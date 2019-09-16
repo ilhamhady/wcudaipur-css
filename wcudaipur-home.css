@@ -490,6 +490,9 @@ div#primary.content-area.full-width {
     font-family: 'Playfair Display';
     font-size: 1.953em;
 }
+.wcorg-mailchimp-email label {
+    margin-top: 20px;
+}
 @media (min-width: 94em) {
     #new_columns-53-5 {
         padding-left: 18%;
@@ -522,6 +525,9 @@ div#primary.content-area.full-width {
 @media (max-width: 51em) {
     body.page-id-247 > .site > .site-content {
         margin: -7em 0 -1em;
+    }
+    #div-block-3-5 {
+        background-image: none;
     }
     #headline-6-5 {
         font-size: 4em;
@@ -566,7 +572,7 @@ div#primary.content-area.full-width {
         flex-direction: row;
         justify-content: center;
     }
-    #footer-widget-2 {
+    #footer-widget-2 h2 {
         text-align: center;
     }
     #footer-widget-2 input[type=submit] {
