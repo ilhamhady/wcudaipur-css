@@ -466,6 +466,12 @@ div#primary.content-area.full-width {
     background-color: #ffffff;
     color: #000000;
 }
+#footer-widget-2 input[type=text] {
+    font-family: 'Montserrat';
+    background-color: rgba(255,255,255,.0);
+    color: #000000;
+    box-shadow: none !important;
+}
 #footer-widget-2 input[type=submit]:hover {
     background-color: #333333;
     color: #ffffff;
