@@ -490,8 +490,8 @@ div#primary.content-area.full-width {
     font-family: 'Playfair Display';
     font-size: 1.953em;
 }
-.wcorg-mailchimp-email label {
-    margin-top: 20px !important;
+.widget_wcorg_mailchimp_wiget .wcorg-mailchimp label {
+    margin-top: 15px;
 }
 @media (min-width: 94em) {
     #new_columns-53-5 {
