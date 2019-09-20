@@ -517,6 +517,12 @@ div#primary.content-area.full-width {
     }
     #media_image-3 {
         margin: 1.5em 0;
+        display: inline-flex;
+        justify-content: center;
+    }
+    #jetpack_widget_social_icons-4 {
+        display: inline-flex;
+        justify-content: center;
     }
     #footer-widget-2 {
         width: 70% !important;
