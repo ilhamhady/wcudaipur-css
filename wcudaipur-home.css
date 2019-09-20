@@ -571,6 +571,11 @@ div#primary.content-area.full-width {
         margin-right: 5% !important;
     }
 }
+@media (max-width: 48em) {
+    .home #div_block-113-5, .home #div_block-114-5, .home #div_block-115-5 {
+        margin-left: 25px;
+    }
+}
 @media (max-width: 30em) {
     body.page-id-247 > .site > .site-content {
         margin: -10em 0 -1em;
