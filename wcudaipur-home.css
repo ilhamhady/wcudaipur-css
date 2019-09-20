@@ -510,7 +510,7 @@ div#primary.content-area.full-width {
 }
 @media (min-width: 768px) {
     #footer-widget-1 {
-        width: 30% !important;
+        width: 40% !important;
         justify-content: center;
         display: flex;
         flex-direction: column;
@@ -525,7 +525,7 @@ div#primary.content-area.full-width {
         justify-content: center;
     }
     #footer-widget-2 {
-        width: 70% !important;
+        width: 60% !important;
     }
 }
 @media (max-width: 1023px) and (min-width: 768px) {
